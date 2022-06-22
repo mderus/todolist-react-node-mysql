@@ -1,4 +1,4 @@
-# Todo App (Express + React)
+# Todo App (Express + React + MySQL)
 > A Full Stack (Node/Express + React) CRUD Todo App, connected with a MySQL database.
 > 
 > Live demo [_here_](https://helpful-dragon-d4e50a.netlify.app/).
